@@ -36,7 +36,8 @@ def max_marks(marks):
     return large
 ```
 ## Sample Input and Output
-![Screenshot_20230126_050336](https://user-images.githubusercontent.com/121608770/214825726-3e630cb6-5c85-41c7-ba5b-095aad4ea217.png)
+![Screenshot_20230126_050347](https://user-images.githubusercontent.com/121608770/214825819-911fdbf2-747b-431c-8e93-9826d20b9d0a.png)
+
 
 
 ## Output:
